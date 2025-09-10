@@ -1,11 +1,6 @@
-{
-	"dependencies": {
-		"react": "^18.3.1",
-		"react-dom": "^18.3.1"
-	},
-	"devDependencies": {
-		"@types/react": "^18.3.24",
-		"@types/react-dom": "^18.3.7",
-		"typescript": "^5.9.2"
-	}
+﻿{
+  "name": "prism",
+  "private": true,
+  "packageManager": "pnpm@9",
+  "workspaces": ["prism-ui", "prism-desktop"]
 }

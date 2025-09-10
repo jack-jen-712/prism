@@ -1,11 +1,7 @@
-{
+﻿{
   "name": "prism-ui",
   "version": "0.1.0",
   "private": true,
-  "workspaces": [
-    "prism-ui",
-    "prism-desktop"
-  ],
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build --turbopack",
