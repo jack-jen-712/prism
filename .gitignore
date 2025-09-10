@@ -1,0 +1,10 @@
+﻿# node / rust / python
+node_modules
+.next
+target
+dist
+src-tauri/target
+*.log
+*.env
+prism-engine/.venv
+__pycache__
